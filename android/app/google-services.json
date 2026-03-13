@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237716638970",
+    "project_id": "saaed-inventory",
+    "storage_bucket": "saaed-inventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237716638970:android:2fa0eb63546b07025fcd43",
+        "android_client_info": {
+          "package_name": "com.saaed.inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWjZUpH8wxXBgu4z6-2iNJC6nDU0TU7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
